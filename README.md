@@ -1,4 +1,4 @@
-# Searchable-Email-Storage-using-Elasticsearch
+
 # 📧 Searchable Email Storage using Elasticsearch
 
 ## 🚀 Introduction  
